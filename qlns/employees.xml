@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Duy Việt</name>
+        <dateOfBirth>14/07/2025</dateOfBirth>
+        <department>IT</department>
+        <position>Specialist</position>
+        <education>High School</education>
+        <salary>5000.0</salary>
+        <email>viet@gmail.com</email>
+        <phone>0123456789</phone>
+        <address>dfkjhsdf</address>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Đỗ Tiến Hải</name>
+        <dateOfBirth>30/07/2025</dateOfBirth>
+        <department>HR</department>
+        <position>Manager</position>
+        <education>Ph.D</education>
+        <salary>1000.0</salary>
+        <email>abd@gmail.com</email>
+        <phone>0987654321</phone>
+        <address>Phenikaa</address>
+    </employee>
+</employees>
